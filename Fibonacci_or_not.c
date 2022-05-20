@@ -1,8 +1,8 @@
+
 #include<stdio.h>
 int main()
 {
  int a,b,c,next,num;
-
  scanf("%d", &num);
  if((num==0)||(num==1))
    printf("
@@ -26,3 +26,4 @@ int main()
 
  return 0;
 }
+
